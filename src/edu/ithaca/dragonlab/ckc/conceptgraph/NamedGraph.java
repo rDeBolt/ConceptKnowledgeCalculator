@@ -15,4 +15,5 @@ public class NamedGraph {
 	public String toString(){
 		return this.name;
 	}
+
 }
