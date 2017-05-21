@@ -47,8 +47,6 @@ public class ConceptGraphTest {
         Assert.assertEquals(1, objectSuggestionMap.size());
         Assert.assertEquals(testList3, objectSuggestionMap.get("C"));
 
-
-
     }
 
 
